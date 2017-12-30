@@ -46,10 +46,10 @@ void loop(){
     case 'S':
       Stop();
       break;
-    case 'A':
+    case 'X':
       servoH();
       break;
-    case 'C':
+    case 'x':
       servoR();
       break;        
     }
