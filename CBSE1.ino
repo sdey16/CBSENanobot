@@ -42,10 +42,10 @@ void loop(){
     case 'R':
       right();
       break;
-    case 'A':
+    case 'X':
       serf();
       break;
-    case 'O':
+    case 'x':
       serb();
       break;
     case 'S':
